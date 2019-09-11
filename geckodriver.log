@@ -1,0 +1,108 @@
+1544928521295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcx\\AppData\\Local\\Temp\\rust_mozprofile.qMrqRekTM5SS"
+1544928523532	Marionette	INFO	Listening on port 51384
+1544928523575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+[Parent 12096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544928560398	Marionette	INFO	Stopped listening on port 51384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10256, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544931969237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcx\\AppData\\Local\\Temp\\rust_mozprofile.jLYuGKIVZvSc"
+1544931971442	Marionette	INFO	Listening on port 51637
+1544931971518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+1544932013769	Marionette	INFO	Stopped listening on port 51637
+[Child 10988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 1756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 11256, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544936947643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcx\\AppData\\Local\\Temp\\rust_mozprofile.0bq1mY0elU2R"
+1544936949932	Marionette	INFO	Listening on port 51951
+1544936950427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+1544936992981	Marionette	INFO	Stopped listening on port 51951
+[Parent 10108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/[Parent 10108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 84[GPU 1142
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1544937061445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcx\\AppData\\Local\\Temp\\rust_mozprofile.0CrOQRThwXKw"
+1544937063883	Marionette	INFO	Listening on port 52074
+1544937064250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_db15e45072c12697d6fed065e7a71f62.js?db15e45072c12697d6fed065e7a71f62, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_0a820a6552cc34ad51a0996faf263ed0.js?0a820a6552cc34ad51a0996faf263ed0, line 11: unreachable code after return statement
+1544937105843	Marionette	INFO	Stopped listening on port 52074
+[Child 11540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8208, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547628045733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WUXIAO~1\\AppData\\Local\\Temp\\rust_mozprofile.u400k9i6A9MX"
+1547628046833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547628046833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547628048925	Marionette	INFO	Listening on port 7663
+1547628049330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_209d7b0d3a4369349ae81685b305678f.js?209d7b0d3a4369349ae81685b305678f, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_209d7b0d3a4369349ae81685b305678f.js?209d7b0d3a4369349ae81685b305678f, line 133: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_037081fb1ad46ff26b52bb777c3636f0.js?037081fb1ad46ff26b52bb777c3636f0, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_037081fb1ad46ff26b52bb777c3636f0.js?037081fb1ad46ff26b52bb777c3636f0, line 11: unreachable code after return statement
+1547628089581	Marionette	INFO	Stopped listening on port 7663
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16152, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[RDD 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 8048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
